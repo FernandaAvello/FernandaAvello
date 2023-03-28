@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 Me llamo Fernanda, soy una Frontend Developer.<br>Me apasiona la programación y me gusta día a día desafiarme con retos e ir adquiriendo nuevas competencias.<br>
 
 
